@@ -1,4 +1,4 @@
-# se-for-sci-hw6
+# se-for-sci-hw6. Author : Prof. Henry Schreiner
 
 [![Actions Status][actions-badge]][actions-link]
 
