@@ -71,18 +71,3 @@ strict = true
 show_error_codes = true
 enable_error_code = ["ignore-without-code", "redundant-expr", "truthy-bool"]
 warn_unreachable = true
-
-
-[tool.pylint]
-py-version = "3.7"
-ignore-paths= ["src/se_for_sci_hw6/_version.py"]
-extension-pkg-allow-list = ["se_for_sci_hw6._core"]
-reports.output-format = "colorized"
-similarities.ignore-imports = "yes"
-messages_control.disable = [
-  "design",
-  "fixme",
-  "line-too-long",
-  "wrong-import-position",
-  "missing-module-docstring",
-]
