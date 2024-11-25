@@ -19,7 +19,7 @@ There's a C++ version you can compile directly and compare with
 etc. have been provided.
 
 <!-- prettier-ignore-start -->
-[actions-badge]:            https://github.com/se-for-sci/binding-exercise/workflows/CI/badge.svg
-[actions-link]:             https://github.com/se-for-sci/binding-exercise/actions
+[actions-badge]:            https://github.com/se-for-sci/binding-exercise-solution/workflows/CI/badge.svg
+[actions-link]:             https://github.com/se-for-sci/binding-exercise-solution/actions
 
 <!-- prettier-ignore-end -->
