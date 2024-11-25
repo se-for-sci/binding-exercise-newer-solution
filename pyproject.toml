@@ -3,7 +3,7 @@ requires = ["scikit-build-core", "pybind11"]
 build-backend = "scikit_build_core.build"
 
 [project]
-name = "se-for-sci-hw6"
+name = "binding-exercise"
 version = "0.0.1"
 description = "An example of a compiled package."
 readme = "README.md"

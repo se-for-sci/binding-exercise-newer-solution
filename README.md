@@ -1,4 +1,6 @@
-# se-for-sci-hw6. Author : Prof. Henry Schreiner
+# Binding Exercise.
+
+## Author : Prof. Henry Schreiner
 
 [![Actions Status][actions-badge]][actions-link]
 
@@ -17,7 +19,7 @@ There's a C++ version you can compile directly and compare with
 etc. have been provided.
 
 <!-- prettier-ignore-start -->
-[actions-badge]:            https://github.com/APC524-F2023/homework-6/workflows/CI/badge.svg
-[actions-link]:             https://github.com/APC524-F2023/homework-6/actions
+[actions-badge]:            https://github.com/se-for-sci/binding-exercise/workflows/CI/badge.svg
+[actions-link]:             https://github.com/se-for-sci/binding-exercise/actions
 
 <!-- prettier-ignore-end -->

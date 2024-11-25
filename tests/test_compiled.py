@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from pytest import approx
 
-from se_for_sci_hw6 import HarmonicOscillator
+from binding_exercise import HarmonicOscillator
 
 
 def test_simple():
